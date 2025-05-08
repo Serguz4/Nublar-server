@@ -30,7 +30,7 @@ app.get('/', (req, res) => {
   res.send('GhostChat backend funcionando');
 });
 
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 10000;
 server.listen(PORT, () => {
   console.log(`Servidor corriendo en puerto ${PORT}`);
 });
