@@ -1,1 +1,0 @@
-MONGO_URI=mongodb+srv://<usuario>:<clave>@<tu_cluster>.mongodb.net/nublar?retryWrites=true&w=majority
